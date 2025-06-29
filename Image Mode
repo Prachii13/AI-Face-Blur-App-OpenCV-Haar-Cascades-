@@ -1,0 +1,3 @@
+# Put your image in static/uploads/
+# Then edit the last line:
+process_image("static/uploads/yourimage.jpg")
