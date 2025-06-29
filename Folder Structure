@@ -1,0 +1,7 @@
+ai-face-blur/
+├── face_blur.py
+├── static/
+│   └── uploads/
+├── haarcascade_frontalface_default.xml
+├── requirements.txt
+└── README.md
